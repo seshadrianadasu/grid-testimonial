@@ -206,4 +206,8 @@ main{
     .white{
         grid-row: 5/6;
     }
+    .quotes{
+        width: 32%;
+        right: 1rem;
+    }
 }
